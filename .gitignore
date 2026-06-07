@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+TMP_RECORDING.mp4
+my_map.pgm
+my_map.yaml
+*.mp4
+*.mp4
